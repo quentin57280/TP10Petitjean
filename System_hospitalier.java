@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// modification requêtes pour le TP10
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// modification requises pour le TP10
 		return "Cluster trouvé";
 	}
 
